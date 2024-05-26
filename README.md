@@ -75,7 +75,7 @@ Click File **"order_form.html"**
 ## Special instructions
 **! Node.js App**
 
-- Verify that you compuer has Node.js App.
+- Verify that you computer has Node.js App.
 
 - If you don't have, you need to download Node.js App: [Node.js](https://nodejs.org/)
 
